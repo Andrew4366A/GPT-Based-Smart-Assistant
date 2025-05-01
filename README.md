@@ -1,2 +1,0 @@
-# GPT-Based-Smart-Assistant
-The primary objective of this project is to develop an interactive voice-controlled assistant leveraging OpenAI's GPT model to understand and respond to user queries in natural language. 
